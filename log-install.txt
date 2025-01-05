@@ -1,0 +1,65 @@
+=========================[SCRIPT PREMIUM]========================
+
+-----------------------------------------------------------------
+
+   >>> Service & Port
+
+    [INFORMATION SSH & OPENVPN]
+    ---------------------------
+   - OpenSSH                             : 22
+   - OpenVPN                             : TCP 1194, UDP 2200
+   - OpenVPN SSL                         : 110
+   - Slow/SSH Dns                        : ANY PORT CAN USED
+   - Stunnel                             : 222, 777
+   - Dropbear                            : 109, 143
+   - OHP Dropbear                        : 8585
+   - OHP SSH                             : 8686
+   - OHP OpenVPN                         : 8787
+   - Websocket SSH(HTTP)                 : 2082
+   - Websocket SSL(HTTPS)                : 2083
+   - Websocket OpenVPN                   : 2084
+
+    [INFORMATION SQUID, BADVPN, NGINX]
+    ----------------------------------
+   - Squid Proxy                         : 3128, 8080 (limit to IP Server)
+   - Badvpn                              : 7100, 7200, 7300
+   - Nginx                               : 81
+
+    [INFORMATION WG]
+    --------------
+   - Wireguard                           : 5820
+
+    [INFORMATION SHADOWSOCKS OBFS]
+    ------------------------------
+   - SS-OBFS TLS                         : 2443-2543
+   - SS-OBFS HTTP                        : 3443-3543
+
+    [INFORMATION XRAY VMESS/VLESS]
+    ------------------
+   - Vmess/Vless Ws Tls                  : 443
+   - Vmess/Vless Grpc Tls                : 443
+   - Vmess/Vless Xhttp Tls               : 443
+   - Vmess/Vless Http Upgrade Tls        : 443
+   - Vmess/Vless Ws None Tls             : 80
+   - Vmess/Vless Xhttp None Tls          : 80
+   - Vmess/Vless Http Upgrade None Tls   : 80
+
+    [INFORMATION XRAY TROJAN]
+    -------------------------
+   - Trojan Ws Tls                       : 443
+   - Trojan Grpc Tls                     : 443
+   - Trojan Ws None Tls                  : 80
+   --------------------------------------------------------------
+
+   >>> Server Information & Other Features
+   - Timezone                : Asia/Kuala_Lumpur (GMT +8)
+   - Fail2Ban                : [ON]
+   - Dflate                  : [ON]
+   - IPtables                : [ON]
+   - Auto-Reboot             : [OF]
+   - IPv6                    : [OF]
+   - Auto Delete Expired Account
+   - Full Orders For Various Services
+   - White Label
+   - Installation Log --> /root/log-install.txt
+------------------------- Script EZ-Code -----------------------
