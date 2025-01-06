@@ -15,8 +15,8 @@
    - OHP Dropbear                        : 8585
    - OHP SSH                             : 8686
    - OHP OpenVPN                         : 8787
-   - Websocket SSH(HTTP)                 : 2082
-   - Websocket SSL(HTTPS)                : 2083
+   - Websocket SSH(HTTP)                 : 443
+   - Websocket SSL(HTTPS)                : 80
    - Websocket OpenVPN                   : 2084
 
     [INFORMATION SQUID, BADVPN, NGINX]
