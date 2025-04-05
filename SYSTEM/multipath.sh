@@ -396,14 +396,15 @@ echo ""
 echo -e "   .-------------------------------------."
 echo -e "   |    ${blue}TURN ON/OFF MULTIPATH VLESS WS\e[0m   |"
 echo -e "   '-------------------------------------'"
-echo -e "${red} NOTE\e[0m: ${white}If your turn on multipath, SSH WS not working."
+echo -e "   ${red} NOTE\e[0m: ${white}If your turn on multipath,
+echo -e "          SSH WS not working."
 echo ""
-echo -e "${yellow} STATUS: ${sts}"
+echo -e "   ${yellow} STATUS: ${sts}"
 echo -e ""
 echo -e "     ${blue} 1)\e[0m TURN ON\e[0m"
 echo -e "     ${blue} 2)\e[0m TURN OFF\e[0m"
 echo -e "     ${blue} 3)\e[0m BACK TO MAIN MENU\e[0m"
-echo -e "    ------------------------------------"
+echo -e "    -------------------------------------"
 read -p "     Please select numbers 1-3 : " SC
 echo ""
 if [[ $SC == "1" ]]; then
