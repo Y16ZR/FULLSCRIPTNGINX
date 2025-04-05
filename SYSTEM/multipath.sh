@@ -398,7 +398,7 @@ echo -e "   |    ${blue}TURN ON/OFF MULTIPATH VLESS WS\e[0m   |"
 echo -e "   '-------------------------------------'"
 echo -e "${red} NOTE\e[0m: ${white}If your turn on multipath, SSH WS not working."
 echo ""
-echo -e "${yellow} STATUS: ${sts}
+echo -e "${yellow} STATUS: ${sts}"
 echo -e ""
 echo -e "     ${blue}1)\e[0m TURN ON\e[0m"
 echo -e "     ${blue}2)\e[0m TURN OFF\e[0m"
