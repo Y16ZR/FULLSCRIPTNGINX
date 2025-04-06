@@ -218,7 +218,7 @@ echo -e "  \e[0;34m┃$NC$green[${white}20${green}] ${white}CHANGE PASSWORD VPS 
 echo -e "  \e[0;34m┃$NC$green[${white}21${green}] ${white}SHOW SPEEDTEST SERVER     \e[0;34m┃$NC   WIREGUARD   $green      =$NC $yellow$JUMLAHWG"
 echo -e "  \e[0;34m┃$NC$green[${white}22${green}] ${white}UPDATE XRAY CORE          \e[0;34m┃$NC                          \e[0;34m┃$NC"
 echo -e "  \e[0;34m┃$NC$green[${white}23${green}] ${white}UPDATE PREMIUM SCRIPT     \e[0;34m┃$NC   SHADOWSOCKS OBFS$green  =$NC $yellow$JUMLAHSS"
-echo -e "  \e[0;34m┃$NC$green[${white}24${green}] ${white}TURN ON/OFF MULTIPATH        \e[0;34m┃$NC                          \e[0;34m┃$NC"
+echo -e "  \e[0;34m┃$NC$green[${white}24${green}] ${white}TURN ON/OFF MULTIPATH     \e[0;34m┃$NC                          \e[0;34m┃$NC"
 echo -e "  \e[0;34m┃$NC$green[${white}25${green}] ${white}REBOOT SERVER             \e[0;34m┃$NC                          \e[0;34m┃$NC"
 echo -e "  \e[0;34m╔══════════════════════════════════════════════════════════╗\e[m"
 echo -e "   $green[${white}•0${green}] ${white}Exit from the menu ${blue}[${red}Ctrl + C${NC}${blue}]$NC"
